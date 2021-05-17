@@ -134,7 +134,7 @@ STRINGS:
     # /delwarns
     purged_warns: "{admin} reset <code>{num}</code> warns of {user} in <b>{chat_title}</b>!"
     usr_no_wrn: "{user} doesn't have any warns to reset."
-    rst_wrn_sofi: 'Daisy never had warns to reset.'
+    rst_wrn_sofi: 'Riya never had warns to reset.'
     not_digit: Warnlimits should be digits!
 
     # /warnmode
@@ -186,8 +186,8 @@ STRINGS:
     emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Daisy'
-    start_hi: "Hey there! My name is <b>Daisy.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    start_hi_group: 'Hey there! My name is Riya'
+    start_hi: "Hey there! My name is <b>Riya.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
     btn_source: "📜 Source code"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
@@ -197,7 +197,7 @@ STRINGS:
     back: "🏃‍♂️ Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b>Daisy</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "Hi Boss! I'm <b>Riya</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
     click_btn: Click here
 
   disable:
@@ -541,7 +541,7 @@ STRINGS:
     big_file: Only files under 50 MB are supported!
     started_importing: Importing started! Please wait...
     bad_file: Bad file! Expected <code>'general'</code> column.
-    file_version_so_new: Exported file version is newer than what Daisy currently supports!
+    file_version_so_new: Exported file version is newer than what Riya currently supports!
     imports_locked: Please wait %s before using imports again!
     import_done: Import done!
   restrictions:
